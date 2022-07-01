@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   min-height: 100vh;
   background-color: #282c34;
-  text-align: center;
+  justify-content: center;
 }
 
 .App-logo {
